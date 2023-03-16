@@ -1,0 +1,15 @@
+main: com.juancho.spigot.omorimod.App
+name: OmoriMOD
+api-version: 1.13
+version: 0.1
+depend: [ProtocolLib]
+commands:
+  createparty:
+    description: Crea una party para minar y pelear.
+    usage: /<command>
+  leave:
+    description: Abandona una party.
+    usage: /<command>
+  test:
+    description: Testea algo.
+    usage: /<command>
